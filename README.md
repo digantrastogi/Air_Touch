@@ -20,7 +20,7 @@ The potential difference is transferred to the base of transistor-1.
 The potential is then amplified serially one by one by the three transistors, becoming enough to light up the LED
 The models are as follow:
 <div align="center">
-<img width="244" alt="Model" src="https://user-images.githubusercontent.com/86347098/123809989-b0dde100-d90f-11eb-9ba3-804b18b6e9d9.png"> <img width="410" alt="InputCurrent" src="https://user-images.githubusercontent.com/86347098/123810076-c18e5700-d90f-11eb-822f-7685a6b4095f.png"> <img width="173" alt="PCB" src="https://user-images.githubusercontent.com/86347098/123809973-ad4a5a00-d90f-11eb-9039-0e9ff180db20.png">
+<img width="244" alt="Model" src="https://user-images.githubusercontent.com/86347098/123809989-b0dde100-d90f-11eb-9ba3-804b18b6e9d9.png">  <img width="173" alt="PCB" src="https://user-images.githubusercontent.com/86347098/123809973-ad4a5a00-d90f-11eb-9039-0e9ff180db20.png">
 </div>
 
 ## Simulation
