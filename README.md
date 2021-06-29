@@ -44,7 +44,7 @@ Input current is as follow:
 <img width="413" alt="CurrentAfterAmplificatio2" src="https://user-images.githubusercontent.com/86347098/123809877-999ef380-d90f-11eb-8336-8859def815e0.png">
   </div><br />
 3. Final current through LED
-     <div align="center">
+  <br />
 <img width="413" alt="CurrentAfterAmplificatio3" src="https://user-images.githubusercontent.com/86347098/123809931-a4598880-d90f-11eb-81d8-a7cfedd088cf.png">
-  </div><br />
+ <br />
 
