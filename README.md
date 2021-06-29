@@ -27,7 +27,7 @@ The models are as follow:
 LTSpice sofwatre was used to design the circuit to light up a off the shelf LED. 
 <div align="center">
 <img width="388" alt="LTspice" src="https://user-images.githubusercontent.com/86347098/123809697-73795380-d90f-11eb-818a-05c1bac7519d.png">
- LTSpice model circuit
+ <br /> LTSpice model circuit
 </div> <br />
 
 The results are as follows:  <br />
