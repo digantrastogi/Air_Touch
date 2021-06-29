@@ -47,4 +47,5 @@ The results are as follows:  <br />
   <br />
 <img width="413" alt="CurrentAfterAmplificatio3" src="https://user-images.githubusercontent.com/86347098/123809931-a4598880-d90f-11eb-81d8-a7cfedd088cf.png">
  <br />
-
+## Conclusion
+As can be seen the circuit successfully amplifies a current of 100 nA to 22 mA, sufficient for switching on an LED light. Hence when hand is brotuh near the antenna a very small current will be induced which will be successively to light up the LED.
