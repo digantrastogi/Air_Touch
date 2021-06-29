@@ -12,14 +12,16 @@ Implementing a 3 transistor circuit for very high current gain was done through 
 <div align="center">
 <img width="300" alt="Circuit" src="https://user-images.githubusercontent.com/86347098/123809399-3319d580-d90f-11eb-8c84-a0306e89a561.png">
 </div>
+
 ## Working
+
 The hand when brough near the foil pad, creates a potential difference between the two sides of the pad due to electrostatic induction by the small charges present in our body. 
 The potential difference is transferred to the base of transistor-1. 
 The potential is then amplified serially one by one by the three transistors, becoming enough to light up the LED
-The models are as follow: 
-<img width="244" alt="Model" src="https://user-images.githubusercontent.com/86347098/123809989-b0dde100-d90f-11eb-9ba3-804b18b6e9d9.png">
-<img width="410" alt="InputCurrent" src="https://user-images.githubusercontent.com/86347098/123810076-c18e5700-d90f-11eb-822f-7685a6b4095f.png">
-<img width="173" alt="PCB" src="https://user-images.githubusercontent.com/86347098/123809973-ad4a5a00-d90f-11eb-9039-0e9ff180db20.png">
+The models are as follow:
+<div align="center">
+<img width="244" alt="Model" src="https://user-images.githubusercontent.com/86347098/123809989-b0dde100-d90f-11eb-9ba3-804b18b6e9d9.png"> <img width="410" alt="InputCurrent" src="https://user-images.githubusercontent.com/86347098/123810076-c18e5700-d90f-11eb-822f-7685a6b4095f.png"> <img width="173" alt="PCB" src="https://user-images.githubusercontent.com/86347098/123809973-ad4a5a00-d90f-11eb-9039-0e9ff180db20.png">
+</div>
 
 ## Simulation
 LTSpice sofwatre was used to design the circuit to light up a off the shelf LED.
