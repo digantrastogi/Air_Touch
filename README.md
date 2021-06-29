@@ -25,16 +25,26 @@ The models are as follow:
 
 ## Simulation
 LTSpice sofwatre was used to design the circuit to light up a off the shelf LED.
+<div align="center">
 <img width="388" alt="LTspice" src="https://user-images.githubusercontent.com/86347098/123809697-73795380-d90f-11eb-818a-05c1bac7519d.png">
+</div>
 The above is the LTSpice model 
 The results are as follows: 
 Input current is as follow:
-![Uploading InputCurrent.png…]()
+<div align="center">
+<img width="410" alt="InputCurrent" src="https://user-images.githubusercontent.com/86347098/123810765-4aa58e00-d910-11eb-8ea6-3276c4476972.png">
+</div>
 
 1. After current amplification by transistor-1
+  <div align="center">
 <img width="413" alt="CurrentAfterAmplificatio1" src="https://user-images.githubusercontent.com/86347098/123809792-8855e700-d90f-11eb-8a76-6f34080d57f1.png">
+  </div>
 2. After current amplification by transistor-2
+    <div align="center">
 <img width="413" alt="CurrentAfterAmplificatio2" src="https://user-images.githubusercontent.com/86347098/123809877-999ef380-d90f-11eb-8336-8859def815e0.png">
+  </div>
 3. Final current through LED
+     <div align="center">
 <img width="413" alt="CurrentAfterAmplificatio3" src="https://user-images.githubusercontent.com/86347098/123809931-a4598880-d90f-11eb-81d8-a7cfedd088cf.png">
+  </div>
 
