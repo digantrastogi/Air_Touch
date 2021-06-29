@@ -28,9 +28,9 @@ LTSpice sofwatre was used to design the circuit to light up a off the shelf LED.
 <div align="center">
 <img width="388" alt="LTspice" src="https://user-images.githubusercontent.com/86347098/123809697-73795380-d90f-11eb-818a-05c1bac7519d.png">
 </div> <br />
-The above is the LTSpice model 
-The results are as follows: 
-Input current is as follow:
+The above is the LTSpice model  <br />
+The results are as follows:  <br />
+Input current is as follow: <br />
  <br />
 <img width="410" alt="InputCurrent" src="https://user-images.githubusercontent.com/86347098/123810765-4aa58e00-d910-11eb-8ea6-3276c4476972.png">
 <br />
