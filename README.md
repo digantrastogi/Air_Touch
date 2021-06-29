@@ -36,15 +36,16 @@ Input current is as follow:
 </div>
 <br />
 1. After current amplification by transistor-1
-  <div align="center">
+
 <img width="413" alt="CurrentAfterAmplificatio1" src="https://user-images.githubusercontent.com/86347098/123809792-8855e700-d90f-11eb-8a76-6f34080d57f1.png">
-  </div><br />
+<br />
 2. After current amplification by transistor-2
-    <div align="center">
+ 
 <img width="413" alt="CurrentAfterAmplificatio2" src="https://user-images.githubusercontent.com/86347098/123809877-999ef380-d90f-11eb-8336-8859def815e0.png">
-  </div><br />
+<br />
 3. Final current through LED
   <br />
+  
 <img width="413" alt="CurrentAfterAmplificatio3" src="https://user-images.githubusercontent.com/86347098/123809931-a4598880-d90f-11eb-81d8-a7cfedd088cf.png">
  <br />
 
