@@ -9,8 +9,9 @@ Covid-19 has increased the need for touchless operation. Switches are a frequent
 The inspiration for this circuit was from the darlington pair. A darlington pair is the combination of two transistors that combined provide high current gain. 
 Implementing a 3 transistor circuit for very high current gain was done through LTSpice. 
 ## Circuit Diagram
+<div align="center">
 <img width="300" alt="Circuit" src="https://user-images.githubusercontent.com/86347098/123809399-3319d580-d90f-11eb-8c84-a0306e89a561.png">
-
+</div>
 ## Working
 The hand when brough near the foil pad, creates a potential difference between the two sides of the pad due to electrostatic induction by the small charges present in our body. 
 The potential difference is transferred to the base of transistor-1. 
