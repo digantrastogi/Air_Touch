@@ -67,5 +67,5 @@ As can be seen the circuit successfully amplifies a current of 100 nA to 22 mA, 
     
 ## License📜
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[MIT License](https://github.com/HarshCasper/AllNotes/blob/main/LICENSE)
+
 
