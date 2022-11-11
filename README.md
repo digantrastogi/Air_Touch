@@ -5,7 +5,7 @@ A touchless switch using simple circuit based on BJT BC-547. Designed and simula
 2. The design process will first be carried out on SPICE simulation softwares and then the final circuit will be tested on a breadboard. 
 3. After getting successful results, the final circuit will be soldered on a copper laminated circuit board.
 ## Project Background 💡
-Covid-19 has increased the need for touchless operation. Switches are a frequently touched surface and can lead to spread of the viral disease to many people. Hence it is important to come up with novel circuits which are power efficient, cheap and easy to build that can implent touchless control. 
+Covid-19 has increased the need for touchless operation. Switches are a frequently touched surface and can lead to spread of the viral disease to many people. Hence it is important to come up with novel circuits which are power efficient, cheap and easy to build that can implement touchless control. 
 The inspiration for this circuit was from the darlington pair. A darlington pair is the combination of two transistors that combined provide high current gain. 
 Implementing a 3 transistor circuit for very high current gain was done through LTSpice. 
 ## Circuit Diagram🔌
